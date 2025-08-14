@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M0derat3
-- 👀 I’m interested in Games, cars and anything related to tech!
-- 🌱 I’m currently learning C, C++, VHDL...
+- 👀 I’m interested in games, cars and anything related to tech!
+- 🌱 I’m currently learning C, C++, Java, Unity...
 - 💞️ I’m looking to collaborate on life?
 - ⚡ Fun fact: Press SHIFT + CTRL + WIN + ALT + L
 
